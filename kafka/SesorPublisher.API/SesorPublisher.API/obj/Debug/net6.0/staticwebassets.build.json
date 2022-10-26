@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zYIIVtHJUT9fBa/Jzn6oZQzuIAwEUcTD/eZ3y2COz8Y=",
+  "Source": "SesorPublisher.API",
+  "BasePath": "_content/SesorPublisher.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
